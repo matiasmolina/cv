@@ -1,6 +1,7 @@
 **Matías Molina**  
 Phone: +351 932555235 | Email: [molinamatiasd@gmail.com](mailto:molinamatiasd@gmail.com) | LinkedIn: [https://linkedin.com/in/matiasmolina](https://linkedin.com/in/matiasmolina)
 
+[Check out a simple career journey version of this CV](.cv_summary.pdf)
 ---
 
 **Professional Summary**
@@ -100,6 +101,7 @@ Molina, M., Sánchez, J. (2018). Zero-Shot Learning with Partial Attributes. In:
 ---
 
 **Distinctions**
+
 2024: PAIS Outstanding Paper Award. PAIS-ECAI 2024.
 2023: Postdoctoral research grant, INESC-TEC, Porto, Portugal.  
 2023: CVPR’s committee support for presentation and attendance, Vancouver, Canada.  
