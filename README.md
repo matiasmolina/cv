@@ -27,7 +27,7 @@ My responsibilities include managing a comprehensive research pipeline, conducti
 
 **Data Scientist**  
 Freelance, Remote  
-June 2020 – December 2022  
+June 2020 – May 2023  
 During this period, I worked for different clients performing data analysis, supervised and unsupervised learning, and model prototyping. I mainly delivered Jupyter Notebooks with source code and visualizations.
 
 **Data Scientist**  
@@ -83,7 +83,7 @@ Data Science Diploma, FAMAF+FCE+UNC, Córdoba, Argentina
 
 **Publications**
 
-M. Molina et al., “Towards Few-Shot Illegal Landfill Waste Segmentation” (Accepted ECAI‘24).
+M. Molina et al., “More (Enough) Is Better: Towards Few-Shot Illegal Landfill Waste Segmentation”, PAIS-ECAI 2024.
 
 M. Molina et al., “Super-resolution analysis for landfill waste classification”, Symposium on Intelligent Data Analysis (IDA 2024).
 
@@ -100,7 +100,7 @@ Molina, M., Sánchez, J. (2018). Zero-Shot Learning with Partial Attributes. In:
 ---
 
 **Distinctions**
-
+2024: PAIS Outstanding Paper Award. PAIS-ECAI 2024.
 2023: Postdoctoral research grant, INESC-TEC, Porto, Portugal.  
 2023: CVPR’s committee support for presentation and attendance, Vancouver, Canada.  
 2015: PhD scholarship provided by the National Council of Technical and Scientific Research (CONICET).  
