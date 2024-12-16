@@ -16,7 +16,7 @@ PhD in Computer Science with over 10 years of experience in data analysis, machi
 **Programming Languages:** Python, C, SQL, Haskell, JavaScript, HTML, CSS  
 **Data Science and Machine Learning Tools:** Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, NumPy  
 **Other Tools:** Git, Jupyter, Docker, Flask  
-**Languages:** Spanish (native), English (professional), Portuguese (intermediate)
+**Languages:** Spanish (native), English (C1), Portuguese (B2), Italian (A1)
 
 ---
 
