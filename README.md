@@ -1,7 +1,8 @@
 **Matías Molina**  
 Phone: +351 932555235 | Email: [molinamatiasd@gmail.com](mailto:molinamatiasd@gmail.com) | LinkedIn: [https://linkedin.com/in/matiasmolina](https://linkedin.com/in/matiasmolina)
 
-[Check out a simple career journey version of this CV](.cv_summary.pdf)
+[Check out a simple career journey version of this CV](./cv_summary.pdf)
+
 ---
 
 **Professional Summary**
